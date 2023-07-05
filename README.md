@@ -1,4 +1,4 @@
-## Redis(address, opts)
+# Redis(address, opts)
 Redis client class with support to pass commands as-is.
 
 **Params**
